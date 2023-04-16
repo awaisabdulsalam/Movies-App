@@ -34,7 +34,7 @@
         </div>   
          <div class="movies_details">
           <div>
-            <img src="${movie.poster_path}" alt="Image here" />
+              <img src ="https://image.tmdb.org/t/p/w45${movie.poster_path}"/>
           </div>
           <div class="movie_dec">
           <div>
